@@ -1,0 +1,2 @@
+Git tutorial with Odin Project
+Hello World, welcome the Emperor!
